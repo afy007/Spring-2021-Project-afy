@@ -1,3 +1,3 @@
 # Spring-2021-Project
-Source code for the semester project I needed to make for Spring, 2021.
-Many of the guidelines for the lab were rather restrictive, so I plan on creating another version.
+Source code for the semester project I needed to make for a project in the Spring semester of 2021.
+This repository will be archived for now. I may revisit it and change the implementation to improve the readability of the program, as it is rather messy.
